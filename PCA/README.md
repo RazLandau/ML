@@ -1,0 +1,1 @@
+Implementation [Principal Component Analysis](https://en.wikipedia.org/wiki/Principal_component_analysis) (using only [Numpy's SVD](https://docs.scipy.org/doc/numpy/reference/generated/numpy.linalg.svd.html)) and using it on pictures of faces
