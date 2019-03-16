@@ -1,0 +1,1 @@
+Implementation of the [Multilayer Perceptron Network](https://en.wikipedia.org/wiki/Multilayer_perceptron), and exploring how training is affected by the network architecture with [Keras](https://keras.io/)
